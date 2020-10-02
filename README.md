@@ -1,6 +1,6 @@
 ### Hi there 👋
-- I develop project using Go, Kubernetes, MySQL, Kafka
-- Other things I used to work: Java, Python, Spring, Kong, Vuejs, Machine Learning
+- A Gopher
+- Other things I am familiar: Java, Python, Spring, Kong, Vuejs, Machine Learning
 - How to reach me: [Email](mailto:trong.buiquoc@gmai.com), [Linkedin](www.linkedin.com/in/trongbq)
 
 <!--
