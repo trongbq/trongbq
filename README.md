@@ -3,16 +3,10 @@
 - How to reach me: [Email](mailto:trong.buiquoc@gmai.com), [Linkedin](www.linkedin.com/in/trongbq)
 
 #### What I am proficient or use often
+- Ruby/Ruby on Rails
 - Go
-- Python
-
-#### What I have worked on or continue work on from time to time
-- Java, Spring framework
-- Docker, Kubernetes
-- Machine Learning
-- Javascript, VueJs/ReactJs
-- PostgreSQL, MySQL
-- Bash Script
+- Rust
+- Reactjs/Reduct
 
 <!--
 Here are some ideas to get you started:
