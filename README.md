@@ -1,12 +1,14 @@
 #### Hi there 👋
-- I am a software engineer who are passionate about building software stuff.
+- I am a software engineer who are passionate about building softwares.
 - How to reach me: [Email](mailto:trong.buiquoc@gmai.com), [Linkedin](www.linkedin.com/in/trongbq)
 
-#### What I am proficient or use often
+#### What I am most proficient
 - Ruby/Ruby on Rails
-- Go
 - Rust
-- Reactjs/Reduct
+#### What I use from time to time
+- Python
+- Go
+- JavaScript/Reactjs/Reduct
 
 <!--
 Here are some ideas to get you started:
