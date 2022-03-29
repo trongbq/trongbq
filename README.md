@@ -1,24 +1,18 @@
-#### Hi there 👋
-- I am a software engineer who are passionate about building softwares.
-- How to reach me: [Email](mailto:trong.buiquoc@gmai.com), [Linkedin](www.linkedin.com/in/trongbq)
+# Trong Bui - @trongbq
 
-#### What I am most proficient
-- Ruby/Ruby on Rails
-- Rust
-#### What I use from time to time
-- Python
-- Go
-- JavaScript/Reactjs/Reduct
+👋 Hi! I'm Trong - a software engineer with passion for building useful and interesting applications. I work mostly in the backend, and also have some skills in frontend development.
 
-<!--
-Here are some ideas to get you started:
+### My Values
+- Task breakdown, estimation and delivery on time
+- Transperancy on what I do
+- Product mindset
+- Collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skillset
+- Backend: Ruby/Ruby on Rails, Go, Rust, MySQL
+- Frontend: JavaScript, Reactjs
+- Data structures and Algorithms
+
+### Get In Touch
+- Email: [trong.buiquoc@gmail.com](mailto:trong.buiquoc@gmai.com)
+- Linkedin: [linkedin.com/in/trongbq](www.linkedin.com/in/trongbq)
