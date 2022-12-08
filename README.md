@@ -4,4 +4,4 @@
 
 Email: [trong.buiquoc@gmail.com](mailto:trong.buiquoc@gmai.com)
 
-Linkedin: [linkedin.com/in/trongbq](www.linkedin.com/in/trongbq)
+Linkedin: [linkedin.com/in/trongbq](https://linkedin.com/in/trongbq)
